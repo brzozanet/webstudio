@@ -6,7 +6,7 @@ WebStudio to strona internetowa firmy specjalizującej się w projektowaniu i wd
 
 ## 🌐 Demo
 
-Zobacz stronę online: [WebStudio](https://brzozanet.github.io/project-webstudio/)
+Zobacz stronę online: [WebStudio](https://brzozanet.github.io/webstudio/)
 
 ## 🛠️ Użyte technologie
 
@@ -21,7 +21,7 @@ Zobacz stronę online: [WebStudio](https://brzozanet.github.io/project-webstudio
 ## 📁 Struktura projektu
 
 ```
-project-webstudio/
+webstudio/
 ├── css/              # Skompilowane pliki CSS
 ├── sass/             # Pliki źródłowe SASS
 ├── js/               # Skrypty JavaScript
@@ -67,13 +67,13 @@ Strona jest w pełni responsywna i dostosowana do następujących breakpointów:
 1. Sklonuj repozytorium:
 
    ```bash
-   git clone https://github.com/brzozanet/project-webstudio.git
+   git clone https://github.com/brzozanet/webstudio.git
    ```
 
 2. Przejdź do katalogu projektu:
 
    ```bash
-   cd project-webstudio
+   cd webstudio
    ```
 
 3. Zainstaluj zależności (jeśli używasz npm):
@@ -98,7 +98,7 @@ Po uruchomieniu lokalnego serwera, strona będzie dostępna pod adresem:
 ## 🌍 Wdrożenie
 
 Projekt jest skonfigurowany do wdrożenia na GitHub Pages. Po zbudowaniu, strona będzie dostępna pod adresem:
-`https://brzozanet.github.io/project-webstudio/`
+`https://brzozanet.github.io/webstudio/`
 
 ## 📄 Licencja
 
@@ -106,4 +106,4 @@ Ten projekt jest udostępniony na licencji MIT. Szczegóły w pliku LICENSE.
 
 <br>
 
-![Screenshot App](https://raw.githubusercontent.com/brzozanet/project-webstudio/main/images/gh-cover-goit-markup.png)
+![Screenshot App](https://raw.githubusercontent.com/brzozanet/webstudio/main/images/gh-cover-goit-markup.png)
