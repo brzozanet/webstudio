@@ -1,7 +1,5 @@
 # 💻 WebStudio
 
-### Projekt indywidualny GoIT fullstack developer course
-
 WebStudio to strona internetowa firmy specjalizującej się w projektowaniu i wdrażaniu rozwiązań aplikacji internetowych oraz projektów graficznych. Zawiera trzy główne działy: _Agencja_, _Portfolio_ oraz _Kontakt_. Projekt został zbudowany z naciskiem na responsywność i zgodnie ze strategią Mobile First w celu poprawy doświadczeń użytkownika na urządzeniach mobilnych, poprawę pozycjonowania w wynikach wyszukiwania, szybsze ładowanie stron, elastyczność i skalowalność oraz minimalizację zbędnych elementów. Zastosowanie preprocesora SASS spowodowało większą zwięzłość i czytelność kodu, możliwość wprowadzenia zmiennych oraz obsługi zagnieżdżania oraz modularność.
 
 ## 🌐 Demo
@@ -34,7 +32,6 @@ webstudio/
 ## 📋 Dostępne strony
 
 1. **Strona Główna** (`index.html`)
-
    - Prezentacja firmy
    - Sekcja usług
    - Zespół
