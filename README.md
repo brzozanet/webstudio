@@ -1,5 +1,7 @@
 # 💻 WebStudio
 
+![Screenshot App](https://raw.githubusercontent.com/brzozanet/webstudio/main/images/gh-cover-goit-markup.png)
+
 WebStudio to strona internetowa firmy specjalizującej się w projektowaniu i wdrażaniu rozwiązań aplikacji internetowych oraz projektów graficznych. Zawiera trzy główne działy: _Agencja_, _Portfolio_ oraz _Kontakt_. Projekt został zbudowany z naciskiem na responsywność i zgodnie ze strategią Mobile First w celu poprawy doświadczeń użytkownika na urządzeniach mobilnych, poprawę pozycjonowania w wynikach wyszukiwania, szybsze ładowanie stron, elastyczność i skalowalność oraz minimalizację zbędnych elementów. Zastosowanie preprocesora SASS spowodowało większą zwięzłość i czytelność kodu, możliwość wprowadzenia zmiennych oraz obsługi zagnieżdżania oraz modularność.
 
 ## 🌐 Demo
@@ -100,7 +102,3 @@ Projekt jest skonfigurowany do wdrożenia na GitHub Pages. Po zbudowaniu, strona
 ## 📄 Licencja
 
 Ten projekt jest udostępniony na licencji MIT. Szczegóły w pliku LICENSE.
-
-<br>
-
-![Screenshot App](https://raw.githubusercontent.com/brzozanet/webstudio/main/images/gh-cover-goit-markup.png)
